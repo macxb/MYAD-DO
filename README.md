@@ -1,7 +1,7 @@
 # MYAD-DO
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21C3X1)
 
-A Discord admin bot using the discord.js library
+A discord bot with information and statistics about the online game DarkOrbit
 
 ## YOU MUST HAVE JAVA RUNTIME SE AND THE DISCORD.JS LIBRARY INSTALLED!
 
