@@ -4,6 +4,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/macxb/myad-do?style=plastic)
 ![npm](https://img.shields.io/npm/v/discord.js?label=discord.js&style=plastic)
+
 A discord infobot with information and statistics about the online game DarkOrbit
 
 https://nodejs.org/
