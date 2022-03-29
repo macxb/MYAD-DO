@@ -1,7 +1,7 @@
 # MYAD-DO
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W21C3X1)
-
+[![invite](https://cdn.discordapp.com/attachments/507454734139916288/958350595775926352/unknown.png)](https://discordapp.com/oauth2/authorize?&client_id=487974665495642112&scope=bot&permissions=8)
 ![GitHub repo size](https://img.shields.io/github/repo-size/macxb/myad-do?style=plastic)
 ![npm](https://img.shields.io/npm/v/discord.js?label=discord.js&style=plastic)
 
